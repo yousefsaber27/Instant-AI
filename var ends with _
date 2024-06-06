@@ -1,0 +1,9 @@
+In Python, a variable name ending with an underscore (_) often serves as a convention to convey certain meanings or to avoid conflicts.
+
+1. Avoiding Conflicts with Keywords:
+When a variable name would otherwise conflict with a Python keyword, appending an underscore can make the name valid.
+
+class_ = "This is a class"
+def_ = "This is a definition"
+
+Here, class and def are Python keywords, so appending an underscore allows you to use them as variable names.
